@@ -1,0 +1,7 @@
+streamlit>=1.36
+numpy
+librosa
+torch
+transformers>=4.40
+faster-whisper
+soundfile
